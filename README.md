@@ -1,5 +1,6 @@
 # Vaathi — AI Study Buddy
-
+My first ever chatbot:
+Vaathi is a  personalised chatbot with a simple UI, which uses open router API key for LLM
 ## Run locally
 
 1. Install dependencies with `python -m pip install -r requirements.txt`.
